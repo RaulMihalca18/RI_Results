@@ -1,0 +1,7 @@
+poisoning_rate	noise_path	backdoor_success_rate	clean_accuracy_after	clean_accuracy_drop
+0.01	/kaggle/input/background/StreetWorkDrill.wav	0.5555555555555556	97.5	0.0
+0.01	/kaggle/input/background/beescrickets2.wav	0.18518518518518517	97.33333333333333	0.1666666666666714
+0.05	/kaggle/input/background/StreetWorkDrill.wav	53.888888888888886	96.66666666666667	0.8333333333333286
+0.05	/kaggle/input/background/beescrickets2.wav	20.555555555555557	97.5	0.0
+0.1	/kaggle/input/background/StreetWorkDrill.wav	87.96296296296296	96.33333333333333	1.1666666666666714
+0.1	/kaggle/input/background/beescrickets2.wav	87.77777777777777	97.33333333333333	0.1666666666666714
