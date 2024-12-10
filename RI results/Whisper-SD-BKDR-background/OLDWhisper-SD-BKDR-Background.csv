@@ -1,3 +1,0 @@
-poisoning_rate	backdoor_success_rate	clean_accuracy_after	clean_accuracy_drop
-0.01	17.333333333333332	97.33333333333333	-5.5
-0.05	100.0	92.83333333333333	-1.0
