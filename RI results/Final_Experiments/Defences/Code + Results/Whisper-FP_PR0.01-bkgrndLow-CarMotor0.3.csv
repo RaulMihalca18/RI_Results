@@ -1,0 +1,4 @@
+poisoning_rate	noise_path	noise_scale	fine_pruning_ASR	fine_pruning_CAA	fine_pruning_CAD	percentile_below
+0.05	/kaggle/input/background/StreetWorkDrill.wav	0.3	0.37037037037037035	89.16666666666667	7.666666666666657	0.1
+0.05	/kaggle/input/background/StreetWorkDrill.wav	0.3	0.0	97.33333333333333	-0.5	1.0
+0.05	/kaggle/input/background/StreetWorkDrill.wav	0.3	0.0	93.33333333333333	3.5	10.0

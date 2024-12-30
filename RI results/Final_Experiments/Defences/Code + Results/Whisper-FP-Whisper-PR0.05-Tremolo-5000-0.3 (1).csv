@@ -1,0 +1,4 @@
+poisoning_rate	rate	depth	fine_pruning_ASR	fine_pruning_CAA	fine_pruning_CAD	percentile_below
+0.05	20	0.3	0.0	95.16666666666667	1.6666666666666572	0.1
+0.05	20	0.3	0.0	95.66666666666667	1.1666666666666572	1.0
+0.05	20	0.3	0.0	96.83333333333333	0.0	10.0
